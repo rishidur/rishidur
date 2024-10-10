@@ -3,7 +3,7 @@
 
 # Rishi Durgairajan
 
-👋 Hi there! I’m Rishi Durgairajan, a passionate junior in high school with a keen interest in Machine Learning and Web Development. 🚀
+👋 Hi there! I’m Rishi Durgairajan, a passionate junior in high school with a keen interest in Machine Learning and some Web Development. 🚀
 
 💻 Currently diving deep into ML projects where I leverage my skills to create impactful solutions, including emotion detection models and image classifiers. My journey into AI fuels my curiosity and drives me to explore the intersection of technology and creativity.
 
