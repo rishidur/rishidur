@@ -7,7 +7,7 @@
 
 💻 Currently diving deep into ML projects where I leverage my skills to create impactful solutions, including emotion detection models and image classifiers. My journey into AI fuels my curiosity and drives me to explore the intersection of technology and creativity.
 
-🌐 I’m gaining valuable experience as a Web Development Intern at Rooted Together, honing my skills in building applications that make a difference, even though my main aspiration is in ML.
+🌐 I’ve gained valuable experience as a AI/ML Intern at Insightful AI Strategies, honing my skills in building models that make a difference. As well as web development internships with other non profits!
 
 🤝 I'm continually learning from my experiences and collaborations, hoping to contribute meaningfully to the tech community and the projects I engage in.
 
